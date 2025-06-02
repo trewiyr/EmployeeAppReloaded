@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application\\Services\\Department",
+    "\\Data",
+    "\\Data\\Context",
+    "\\Data\\Migrations",
+    "\\Presentation",
+    "\\Presentation\\bin",
+    "\\Presentation\\DtoMapping",
+    "\\Presentation\\Properties",
+    "\\Presentation\\Views"
+  ],
+  "SelectedNode": "\\Presentation\\DtoMapping\\Mapperly.cs",
+  "PreviewInSolutionExplorer": false
+}
