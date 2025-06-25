@@ -1,4 +1,5 @@
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\bin\Debug\net9.0\Application.deps.json
+C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\bin\Debug\net9.0\Application.runtimeconfig.json
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\bin\Debug\net9.0\Application.dll
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\bin\Debug\net9.0\Application.pdb
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\bin\Debug\net9.0\Data.dll
@@ -8,10 +9,10 @@ C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\D
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\Application.sourcelink.json
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\Application.dll
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\Application.pdb
-C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\ref\Application.dll
-C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\bin\Debug\net9.0\Application.runtimeconfig.json
 C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\Application.genruntimeconfig.cache
+C:\Users\M. Bello-Mojeed\Desktop\Project 2\EmployeeAppReloaded\Application\obj\Debug\net9.0\ref\Application.dll

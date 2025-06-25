@@ -1,0 +1,32 @@
+﻿@model Application.Dtos.EmployeeDto
+
+
+
+<h3>@Model.FirstName @Model.LastName's Information</h3>
+<p> </p>
+<p> <h6>E-Mail</h6>            @Model.Email</p>
+<p><h6>Salary</h6>             @Model.Salary.ToString("C")</p>
+<p><h6>HireDate</h6>           @Model.HireDate.ToShortDateString()</p>
+<p><h6>Department</h6>         @Model.Department?</p>
+   
+<p> </p>
+<p> </p>
+
+@if (Model.Address != null)
+{
+    <div class="d-flex gap-2">
+        <a asp-controller="Address" asp-action="Edit" asp-route-id="@Model.Address.Id" class="btn btn-warning">
+            <i class="bi bi-pencil-square"></i> Edit Address
+        </a>
+
+        <form asp-controller="Address" asp-action="Delete" asp-route-id="@Model.Address.Id" method="post" onsubmit="return confirm('Are you sure?');">
+            <button type="submit" class="btn btn-danger">
+                <i class="bi bi-trash"></i> Delete Address
+            </button>
+        </form>
+    </div>
+}
+<a asp-controller="Address" asp-action="Create" class="btn btn-success">
+    <i class="bi bi-plus-circle"></i> Add Address
+</a>
+

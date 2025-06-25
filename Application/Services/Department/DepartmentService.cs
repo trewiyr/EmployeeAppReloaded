@@ -1,9 +1,8 @@
 ﻿using Application.ContractMapping;
 using Application.Dtos;
 using Data.Context;
-using Humanizer;
 using Microsoft.EntityFrameworkCore;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+
 
 namespace Application.Services.Department;
 
@@ -68,13 +67,10 @@ public class DepartmentService : IDepartmentService
     public async Task<DepartmentDto> UpdateDepartmentAsync(UpdateDepartmentDto dto)
     {
         var department =  _context.Departments.FirstOrDefault(d=>d.Id == dto.Id);
-        var data = new UpdateDepartmentDto
-        {
-            Name = dto.Name,
-            Description = dto.Description
-        };
+        
 
-         department = data.ToModel();
+        department.Description = dto.Description;
+        department.Name = dto.Name;
 
         try
         {
@@ -88,5 +84,6 @@ public class DepartmentService : IDepartmentService
             Console.WriteLine("An error occurred while creating the department.", ex);
             return new DepartmentDto();
         }
+
     }
 }

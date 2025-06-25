@@ -1,0 +1,38 @@
+﻿@model AddressViewModel
+@{
+    ViewData["Title"] = "Create New Address";
+}
+
+
+<h1>@ViewData["Title"]</h1>
+<hr>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="mb-3">
+        <label asp-for="StreetName" class="form-label"></label>
+        <input asp-for="StreetName" class="form-control" />
+        <span asp-validation-for="StreetName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="StreetNo" class="form-label"></label>
+        <input asp-for="StreetNo" class="form-control">
+        <span asp-validation-for="StreetNo" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="City" class="form-label"></label>
+        <input asp-for="City" class="form-control">
+        <span asp-validation-for="City" class="text-danger"></span>
+    </div>
+
+    @* <div class="mb-3">
+        <label asp-for="State" class="form-label"></label>
+        <input asp-for="State" class="form-control">
+        <span asp-validation-for="State" class="text-danger"></span>
+    </div> *@
+    <button type="submit" class="btn btn-primary">Create Address</button>
+
+</form>

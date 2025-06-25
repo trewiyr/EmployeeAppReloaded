@@ -1,13 +1,49 @@
-﻿@using Data.Model
-@model List<Employee>
+﻿@using Application.Dtos;
+@{
+    ViewData["Title"] = "Employees";
+}
+@model EmployeesDto
 
-<table>
-    @foreach (var emp in Model)
-    {
-        <tr>
-            <td>@emp.FirstName +@emp.LastName</td>
-            <td>@emp.Department.Name</td>
-        </tr>
-    }
-</table>
+<h1>@ViewData["Title"]</h1>
+
+<a asp-action="Create" class="btn btn-outline-success">Create New Employee</a>
+<hr>
+
+@if (!Model.Employees.Any())
+{
+    <p class="text-danger">No records available!</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.Employees)
+            {
+                <tr>
+                    <td>@item.FirstName @item.LastName</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm">Detail</a>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-secondary btn-sm">Edit</a>
+                            <form asp-action="Delete" asp-route-id="@item.Id" method="post"
+                                  onsubmit="return confirm('Are you sure?');">
+                                <button type="submit" class="btn btn-outline-danger btn-sm">Delete</button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+}
+ 
+
 

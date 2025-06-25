@@ -1,12 +1,12 @@
 ﻿using Application.Dtos;
 using Application.Services.Department;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Presentation.DtoMapping;
 using Presentation.Models;
-using System.Security.Cryptography.X509Certificates;
 
 namespace Presentation.Controllers;
-
+[Authorize]
 public class DepartmentController : BaseController
 {
     private readonly IDepartmentService _departmentService;
@@ -59,22 +59,33 @@ public class DepartmentController : BaseController
             SetFlashMessage("An error occurred while creating the department. Please try again.", "error");
             return View(model);
         }
-
+        
         SetFlashMessage("Department created successfully.", "success");
 
         return RedirectToAction(nameof(Index));
     }
 
-    public ActionResult Edit()
+    public async Task<ActionResult> Edit(Guid Id)
     {
-        return View();
+        if (!ModelState.IsValid)
+        {
+            SetFlashMessage("Please fill in all required fields correctly.", "error");
+            return View();
+        }
+
+        var result = await _departmentService.GetDepartmentByIdAsync(Id);
+        if (result == null)
+        {
+            return View();
+        }
+        var viewModel = result.ToViewModel();
+        return View(viewModel);
     }
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Edit(UpdateDepartmentDto model)
+    public async Task<IActionResult> Edit(UpdateDepartmentViewModel model)
     {
-
 
         if (!ModelState.IsValid)
         {
@@ -84,7 +95,7 @@ public class DepartmentController : BaseController
 
         var viewModel = new UpdateDepartmentDto
         {
-            Id = Guid.NewGuid(),
+            Id = model.Id,
             Name = model.Name,
             Description = model.Description
         };
@@ -92,7 +103,7 @@ public class DepartmentController : BaseController
         var result = await _departmentService.UpdateDepartmentAsync(viewModel);
 
 
-        SetFlashMessage("Department created successfully.", "success");
+        SetFlashMessage("Department updated successfully.", "success");
 
         return RedirectToAction(nameof(Index));
        
@@ -103,7 +114,7 @@ public class DepartmentController : BaseController
         return View();
     }
 
-    // POST: DepartmentController/Delete/5
+    
     [HttpPost]
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> Delete(Guid id)

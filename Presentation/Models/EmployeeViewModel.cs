@@ -1,15 +1,19 @@
-﻿using Data.Model;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Application.Dtos;
+using Data.Model;
 
 namespace Presentation.Models
 {
     public class EmployeeViewModel
     {
         public Guid? Id { get; set; }
-        public string Name { get; set; } = default!;
-
         public Guid DepartmentId { get; set; }
-
-        public List<Employee> Departments { get; set; } = new List<Employee>();
+        public List<DepartmentDto>? Departments { get; set; }
+        public string FirstName { get; set; } = default!;
+        public string LastName { get; set; } = default!;
+        public string Email { get; set; } = default!;
+        public DateTime HireDate { get; set; }
+        public decimal Salary { get; set; }
+        public Address? Address {  get; set; }
+    
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Application.Dtos;
+using Data.Model;
 using Presentation.Models;
 
 namespace Presentation.DtoMapping;
@@ -43,4 +44,31 @@ public static class Mapperly
             Departments = vm?.Departments?.Select(d => d.ToDto()).ToList() ?? new List<DepartmentDto>()
         };
     }
+
+    public static EmployeeViewModel ToViewModel(this EmployeeDto dto)
+    {
+        return new EmployeeViewModel()
+        {
+            FirstName = dto.FirstName,
+            LastName = dto.LastName,
+            Email = dto.Email,
+            HireDate = dto.HireDate,
+            Salary = dto.Salary,
+            DepartmentId = dto.DepartmentId,
+            Address = dto.Address,
+};
+    }
+
+    public static AddressViewModel ToViewModel(this AddressDto dto)
+    {
+        return new AddressViewModel()
+        {
+            Id = dto.Id,
+            StreetNo = dto.StreetNo,
+            City = dto.City,
+            StreetName = dto.StreetName,
+            //State = dto.State
+        };
+    }
+
 }

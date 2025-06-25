@@ -7,128 +7,268 @@
       "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\department\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\department\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\department\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\department\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\department\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\department\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\department\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\department\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\contractmapping\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\contractmapping\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\context\\employeeappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\context\\employeeappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\migrations\\20250601011041_initialmigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250601011041_initialmigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\migrations\\employeeappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\migrations\\employeeappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\dtomapping\\mapperly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\dtomapping\\mapperly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\context\\employeeappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\context\\employeeappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\configurations\\addressconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\configurations\\addressconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\employee\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\address\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\address\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\contractmapping\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\contractmapping\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\createemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\createemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\model\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\model\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\migrations\\20250623145423_finalfixforaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250623145423_finalfixforaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\migrations\\20250623141053_fixaddaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250623141053_fixaddaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\migrations\\20250623133803_addaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250623133803_addaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\applicationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\migrations\\20250614172609_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250614172609_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\addressviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\addressviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\departmentdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\departmentdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\createdepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\createdepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\editprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\model\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\model\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\migrations\\20250620100123_myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250620100123_myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\address\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\address\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\address\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\address\\iaddressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\department\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\department\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\data\\migrations\\employeeappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB3A975-F7DF-4E5A-8E99-AA7A03A22B7F}|Data\\Data.csproj|solutionrelative:data\\migrations\\employeeappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\updatedepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\updatedepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\departmentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\departmentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\shared\\_flashmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_flashmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\createdepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\createdepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\employee\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\employee\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\models\\updateemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\models\\updateemployeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\user\\autenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\user\\autenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\application\\services\\user\\iautenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED8EEE1-00DE-4446-B0F9-A9B0075F6040}|Application\\Application.csproj|solutionrelative:application\\services\\user\\iautenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|c:\\users\\m. bello-mojeed\\desktop\\project 2\\employeeappreloaded\\presentation\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FCBD9F-2116-4076-A272-8320CFBCF48D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,8 +278,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Context\\EmployeeAppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\EmployeeAppDbContext.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Context\\EmployeeAppDbContext.cs",
+              "RelativeToolTip": "Data\\Context\\EmployeeAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T16:25:10.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mapperly.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\DtoMapping\\Mapperly.cs",
+              "RelativeDocumentMoniker": "Presentation\\DtoMapping\\Mapperly.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\DtoMapping\\Mapperly.cs",
+              "RelativeToolTip": "Presentation\\DtoMapping\\Mapperly.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:30:42.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:11:16.467Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -148,7 +327,7 @@
               "RelativeDocumentMoniker": "Presentation\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Presentation\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwDcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T21:33:06.736Z",
               "EditorCaption": ""
@@ -156,272 +335,220 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AddressConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Configurations\\AddressConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configurations\\AddressConfiguration.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Configurations\\AddressConfiguration.cs",
+              "RelativeToolTip": "Data\\Configurations\\AddressConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:59:10.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Department\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\EmployeeService.cs",
-              "RelativeToolTip": "Application\\Services\\Department\\EmployeeService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Employee\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Employee\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Employee\\EmployeeService.cs",
+              "RelativeToolTip": "Application\\Services\\Employee\\EmployeeService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T21:07:32.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\IDepartmentService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Department\\IDepartmentService.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\IDepartmentService.cs",
-              "RelativeToolTip": "Application\\Services\\Department\\IDepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T16:49:55.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Department\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\IEmployeeService.cs",
-              "RelativeToolTip": "Application\\Services\\Department\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:07:55.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Department\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\DepartmentService.cs",
-              "RelativeToolTip": "Application\\Services\\Department\\DepartmentService.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAswBAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:06:19.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwEEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:10:03.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "EmployeeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\EmployeeViewModel.cs",
-              "RelativeDocumentMoniker": "Presentation\\Models\\EmployeeViewModel.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\EmployeeViewModel.cs",
-              "RelativeToolTip": "Presentation\\Models\\EmployeeViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Address\\AddressService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Address\\AddressService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Address\\AddressService.cs",
+              "RelativeToolTip": "Application\\Services\\Address\\AddressService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T22:28:26.978Z",
+              "WhenOpened": "2025-06-22T13:02:23.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Department\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Department\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Department\\Detail.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Department\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T08:02:45.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Department\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Department\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Department\\Edit.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Department\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T14:05:39.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DepartmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\DepartmentDto.cs",
-              "RelativeDocumentMoniker": "Application\\Dtos\\DepartmentDto.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\DepartmentDto.cs",
-              "RelativeToolTip": "Application\\Dtos\\DepartmentDto.cs",
-              "ViewState": "AgIAAAoAAAAAUiJTu97ovxcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T16:44:35.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EmployeeDto.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\EmployeeDto.cs",
-              "RelativeDocumentMoniker": "Application\\Dtos\\EmployeeDto.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\EmployeeDto.cs",
-              "RelativeToolTip": "Application\\Dtos\\EmployeeDto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T13:59:28.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T21:38:53.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T16:18:38.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T07:35:03.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-01T16:27:06.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Program.cs",
-              "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T17:00:00.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ApplicationServiceExtension.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\ApplicationServiceExtension.cs",
-              "RelativeDocumentMoniker": "Application\\ApplicationServiceExtension.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\ApplicationServiceExtension.cs",
-              "RelativeToolTip": "Application\\ApplicationServiceExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T07:15:39.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Mapper.cs",
               "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\ContractMapping\\Mapper.cs",
               "RelativeDocumentMoniker": "Application\\ContractMapping\\Mapper.cs",
               "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\ContractMapping\\Mapper.cs",
               "RelativeToolTip": "Application\\ContractMapping\\Mapper.cs",
-              "ViewState": "AgIAACEAAAAAkgpE/icPwBIAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:52:52.527Z",
+              "WhenOpened": "2025-06-15T00:53:19.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\EmployeeDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\EmployeeDto.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:40:37.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\AddressDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\AddressDto.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\AddressDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\AddressDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:10:13.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\CreateEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\CreateEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\CreateEmployeeViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\CreateEmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:17:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:13:19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T17:08:58.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Data\\Model\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\EmailSettings.cs",
+              "RelativeToolTip": "Data\\Model\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:37:59.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T11:27:20.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\EditProfileViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\EditProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\EditProfileViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\EditProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T13:39:32.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250623145423_FinalFixForAddress.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250623145423_FinalFixForAddress.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250623145423_FinalFixForAddress.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250623145423_FinalFixForAddress.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250623145423_FinalFixForAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:06:41.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250623141053_FixAddAddress.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250623141053_FixAddAddress.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250623141053_FixAddAddress.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250623141053_FixAddAddress.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250623141053_FixAddAddress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:06:39.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "EmployeeAppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Context\\EmployeeAppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\Context\\EmployeeAppDbContext.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Context\\EmployeeAppDbContext.cs",
-              "RelativeToolTip": "Data\\Context\\EmployeeAppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20250623133803_AddAddress.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250623133803_AddAddress.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250623133803_AddAddress.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250623133803_AddAddress.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250623133803_AddAddress.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T20:44:55.909Z",
+              "WhenOpened": "2025-06-25T17:06:08.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "20250601011041_InitialMigs.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250601011041_InitialMigs.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20250601011041_InitialMigs.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250601011041_InitialMigs.cs",
-              "RelativeToolTip": "Data\\Migrations\\20250601011041_InitialMigs.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwGUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:52:17.158Z",
+              "WhenOpened": "2025-06-23T08:58:27.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "EmployeeAppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\EmployeeAppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\EmployeeAppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\EmployeeAppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Data\\Migrations\\EmployeeAppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:52:05.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "Data\\Model\\Employee.cs",
               "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\Employee.cs",
               "RelativeToolTip": "Data\\Model\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T13:28:46.891Z",
               "EditorCaption": ""
@@ -429,95 +556,420 @@
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\Department.cs",
-              "RelativeDocumentMoniker": "Data\\Model\\Department.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\Department.cs",
-              "RelativeToolTip": "Data\\Model\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Email\\EmailService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Email\\EmailService.cs",
+              "RelativeToolTip": "Application\\Services\\Email\\EmailService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:50:20.103Z",
+              "WhenOpened": "2025-06-25T15:39:23.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\ApplicationServiceExtension.cs",
+              "RelativeDocumentMoniker": "Application\\ApplicationServiceExtension.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\ApplicationServiceExtension.cs",
+              "RelativeToolTip": "Application\\ApplicationServiceExtension.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:24:17.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Mapperly.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\DtoMapping\\Mapperly.cs",
-              "RelativeDocumentMoniker": "Presentation\\DtoMapping\\Mapperly.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\DtoMapping\\Mapperly.cs",
-              "RelativeToolTip": "Presentation\\DtoMapping\\Mapperly.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBIAAAAgAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T05:30:42.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T07:37:06.142Z",
+              "WhenOpened": "2025-06-15T08:12:45.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "DepartmentDetailViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\DepartmentDetailViewModel.cs",
-              "RelativeDocumentMoniker": "Presentation\\Models\\DepartmentDetailViewModel.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\DepartmentDetailViewModel.cs",
-              "RelativeToolTip": "Presentation\\Models\\DepartmentDetailViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA1AAAAAAAAAA==",
+              "Title": "20250614172609_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250614172609_AddIdentity.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250614172609_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250614172609_AddIdentity.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250614172609_AddIdentity.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T16:02:07.906Z",
+              "WhenOpened": "2025-06-14T17:26:22.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T14:45:46.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "CreateDepartmentViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\CreateDepartmentViewModel.cs",
-              "RelativeDocumentMoniker": "Presentation\\Models\\CreateDepartmentViewModel.cs",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\CreateDepartmentViewModel.cs",
-              "RelativeToolTip": "Presentation\\Models\\CreateDepartmentViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Email\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Email\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Email\\IEmailService.cs",
+              "RelativeToolTip": "Application\\Services\\Email\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:25:08.682Z",
+              "WhenOpened": "2025-06-25T15:39:52.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T14:45:53.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddressViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\AddressViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\AddressViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\AddressViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\AddressViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T08:56:06.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\DepartmentDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\DepartmentDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\DepartmentDetailViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\DepartmentDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:15:57.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MyUser.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\MyUser.cs",
+              "RelativeDocumentMoniker": "Data\\Model\\MyUser.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\MyUser.cs",
+              "RelativeToolTip": "Data\\Model\\MyUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:40:13.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Account\\EditProfile.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\EditProfile.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Account\\EditProfile.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\EditProfile.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T09:33:15.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250620100123_MyUser.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250620100123_MyUser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250620100123_MyUser.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\20250620100123_MyUser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250620100123_MyUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:07:27.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:59:15.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Address\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Address\\Create.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Address\\Create.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Address\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T11:20:22.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAddressService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Address\\IAddressService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Address\\IAddressService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Address\\IAddressService.cs",
+              "RelativeToolTip": "Application\\Services\\Address\\IAddressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:02:47.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Department\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\IDepartmentService.cs",
+              "RelativeToolTip": "Application\\Services\\Department\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:37:22.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Department\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Department\\DepartmentService.cs",
+              "RelativeToolTip": "Application\\Services\\Department\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:13:48.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T00:23:06.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\State.cs",
+              "RelativeDocumentMoniker": "Data\\Model\\State.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Model\\State.cs",
+              "RelativeToolTip": "Data\\Model\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:16:30.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T09:38:24.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T14:49:40.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T10:21:46.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "Presentation\\Views\\Department\\Create.cshtml",
               "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Department\\Create.cshtml",
               "RelativeToolTip": "Presentation\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T16:01:18.746Z"
+              "WhenOpened": "2025-06-13T10:54:26.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 44,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T10:54:30.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:37:06.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:48:49.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T08:55:16.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EmployeeAppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\EmployeeAppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\EmployeeAppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Data\\Migrations\\EmployeeAppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\EmployeeAppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T09:50:50.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:39:27.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:13:49.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T12:44:27.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T07:37:06.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "UpdateDepartmentViewModel.cs",
               "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\UpdateDepartmentViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\Models\\UpdateDepartmentViewModel.cs",
               "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\UpdateDepartmentViewModel.cs",
               "RelativeToolTip": "Presentation\\Models\\UpdateDepartmentViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T16:02:36.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 54,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:57:05.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
               "Title": "DepartmentsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\DepartmentsViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\Models\\DepartmentsViewModel.cs",
@@ -525,23 +977,71 @@
               "RelativeToolTip": "Presentation\\Models\\DepartmentsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T17:03:56.68Z"
+              "WhenOpened": "2025-06-22T07:17:42.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_FlashMessage.cshtml",
-              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_FlashMessage.cshtml",
-              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_FlashMessage.cshtml",
-              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_FlashMessage.cshtml",
-              "RelativeToolTip": "Presentation\\Views\\Shared\\_FlashMessage.cshtml",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T08:42:38.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-02T14:04:34.916Z"
+              "WhenOpened": "2025-06-21T16:05:11.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 57,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T16:05:14.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateDepartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\CreateDepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\CreateDepartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\CreateDepartmentViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\CreateDepartmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:23:09.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Employee\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Employee\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\Employee\\IEmployeeService.cs",
+              "RelativeToolTip": "Application\\Services\\Employee\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:07:55.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Presentation\\Models\\ErrorViewModel.cs",
@@ -550,6 +1050,66 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T07:39:56.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:10:32.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UpdateEmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\UpdateEmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Presentation\\Models\\UpdateEmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Models\\UpdateEmployeeViewModel.cs",
+              "RelativeToolTip": "Presentation\\Models\\UpdateEmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:04:11.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AutenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\User\\AutenticationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\User\\AutenticationService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\User\\AutenticationService.cs",
+              "RelativeToolTip": "Application\\Services\\User\\AutenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:58:14.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IAutenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\User\\IAutenticationService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\User\\IAutenticationService.cs",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Application\\Services\\User\\IAutenticationService.cs",
+              "RelativeToolTip": "Application\\Services\\User\\IAutenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:02:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\M. Bello-Mojeed\\Desktop\\Project 2\\EmployeeAppReloaded\\Presentation\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Presentation\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-13T09:53:41.804Z"
             }
           ]
         }
